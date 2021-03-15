@@ -1,7 +1,7 @@
 # Marco Pylo
 ## Description
 This is a minigame created in Python, inspired by the swimming pool game: Marco Polo.\
-During the gameplay, you could perform a "Marco!" shoutout and to explore through a maze to find the source of the respond sound, leveraging mainly on the spatial audio cues.\
+During the gameplay, you could perform a "Marco!" shoutout and hear a "Pylo" respond. You'd leverage maily on the spatial cues of sound in order to navigate through the maze to find the source of the respond sound.\
 https://www.youtube.com/watch?v=8GYdsgnaQmI
 
 ## some screen shots
