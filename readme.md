@@ -19,25 +19,15 @@ press 'v' to reveal the whole map (debugging)
 
 ## Credits:
 ### Library used
-pyo                   |for spatial audio processing and mixing
-                        |source: http://ajaxsoundstudio.com/pyodoc/
-
-cmu_112_graphics.py   |for graphics 
-                        |source: https://raw.githubusercontent.com/CMU15-112/module-manager/master/module_manager.py
-pyaudio               |for audio recording in onboarding
+pyo(http://ajaxsoundstudio.com/pyodoc/)                   |for spatial audio processing and mixing
+cmu_112_graphics.py(https://raw.githubusercontent.com/CMU15-112/module-manager/master/module_manager.py)   |for graphics 
+pyaudio(https://pypi.org/project/PyAudio/)               |for audio recording in onboarding
 
 
 ### Media used:
-testDrum.wav          |Creative Commons Attribution 4.0 International License
-                        |source: http://www.orangefreesounds.com/vintage-analog-drum-machine-disco-beat-127-bpm/
-
-orange.wav            |Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
-                        |source:https://freesound.org/people/orangefreesounds/sounds/242080/
-
-
-grassFootstep.wav     |Attribution 3.0 Unported (CC BY 3.0)
-                        |https://freesound.org/people/Motion_S/sounds/221756/
-
+testDrum.wav(http://www.orangefreesounds.com/vintage-analog-drum-machine-disco-beat-127-bpm/)          |Creative Commons Attribution 4.0 International License
+orange.wav(https://freesound.org/people/orangefreesounds/sounds/242080/)            |Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+grassFootstep.wav(https://freesound.org/people/Motion_S/sounds/221756/)     |Attribution 3.0 Unported (CC BY 3.0)
 marcoDefault.wav      |recorded by yiweih
 pyloDefault.wav       |recorded by yiweih
 
@@ -46,4 +36,4 @@ pyloDefault.wav       |recorded by yiweih
 run main.py to play the game
 In order to have recording permission on a mac OS:
 you need to run vs code as root user
-try run in the terminal: sudo /Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron
+try run in the terminal: |sudo /Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron
