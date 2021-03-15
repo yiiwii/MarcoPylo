@@ -1,14 +1,15 @@
 # Marco Pylo
+## Description
 This is a minigame created in Python, inspired by the swimming pool game: Marco Polo.
 During the gameplay, you'd explore through a maze to find the source of the sound, leveraging the spatial audio cues.
 See this video for more:
 https://www.youtube.com/watch?v=8GYdsgnaQmI
 
-# some screen shots
+## some screen shots
 ![image](https://github.com/yiiwii/MarcoPylo/blob/main/marco_callout.gif
 )
 
-# Shortcuts
+## Shortcuts
 press 'Enter' to enter
 press arrow keys to move user position and hear the spatial sound
 press 'M' to trigger the 'Marco' Shout out
@@ -16,7 +17,7 @@ press 'M' to trigger the 'Marco' Shout out
 press 'z' or 'x' to modify map complexity(debugging)
 press 'v' to reveal the whole map (debugging)
 
-# Credits:
+## Credits:
 ### Library used
 pyo                   |for spatial audio processing and mixing
                         |source: http://ajaxsoundstudio.com/pyodoc/
