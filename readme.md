@@ -42,7 +42,7 @@ marcoDefault.wav      |recorded by yiweih
 pyloDefault.wav       |recorded by yiweih
 
 
-# if run on mac
+## if run on mac
 run main.py to play the game
 In order to have recording permission on a mac OS:
 you need to run vs code as root user
