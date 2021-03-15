@@ -9,11 +9,11 @@ see more on the walkthrough here: https://www.youtube.com/watch?v=8GYdsgnaQmI
 )
 
 ## Shortcuts
-press 'Enter' to enter\
-press arrow keys to move user position and hear the spatial sound\
-press 'M' to trigger the 'Marco' Shout out\
-press 'z' or 'x' to modify map complexity(debugging)\
-press 'v' to reveal the whole map (debugging)
+- 'Enter' to enter\
+- arrow keys to move user position and hear the spatial sound\
+- 'M' to trigger the 'Marco' Shout out\
+- 'z' or 'x' to modify map complexity(debugging)\
+- 'v' to reveal the whole map (debugging)
 
 ## Credits:
 ### Library used
