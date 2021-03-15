@@ -1,9 +1,9 @@
 # Marco Pylo
 This is a python project created for CMU 15112 as term project. 
 to explore spatial sound where you call and find 'Pylo' in a generated maze
-![image](https://github.com/yiiwii/MarcoPylo/blob/main/marco_callout.gif|400
+![image](https://github.com/yiiwii/MarcoPylo/blob/main/marco_callout.gif
 )
-![image](https://github.com/yiiwii/MarcoPylo/blob/main/maze_levelup.gif|400
+![image](https://github.com/yiiwii/MarcoPylo/blob/main/maze_levelup.gif
 )
 run main.py to play the game
 
