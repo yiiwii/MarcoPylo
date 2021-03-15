@@ -1,15 +1,13 @@
 # Marco Pylo
-This is a python project created for CMU 15112 as term project. 
-to explore spatial sound where you call and find 'Pylo' in a generated maze
+This is a minigame created in Python.
+Inspired by the swimming pool game: Marco Polo
+This game is intended to explore the spatial cues of sound
+in which you explore through a maze to find the source of the sound.
 ![image](https://github.com/yiiwii/MarcoPylo/blob/main/marco_callout.gif
 )
 ![image](https://github.com/yiiwii/MarcoPylo/blob/main/maze_levelup.gif
 )
-run main.py to play the game
 
-In order to have recording permission on a mac OS:
-you need to run vs code as root user
-try run in the terminal: sudo /Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron
 
 # Shortcuts
 press 'Enter' to enter
@@ -42,3 +40,10 @@ grassFootstep.wav     |Attribution 3.0 Unported (CC BY 3.0)
 
 marcoDefault.wav      |recorded by yiweih
 pyloDefault.wav       |recorded by yiweih
+
+
+# if run on mac
+run main.py to play the game
+In order to have recording permission on a mac OS:
+you need to run vs code as root user
+try run in the terminal: sudo /Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron
