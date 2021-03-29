@@ -33,5 +33,5 @@ see more on the walkthrough here: https://www.youtube.com/watch?v=8GYdsgnaQmI
 ## if run on mac
 run main.py to play the game\
 In order to have recording permission on a mac OS:\
-you need to run vs code as root user\
+you need to run as root user\
 try run in the terminal: |sudo /Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron
